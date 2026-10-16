@@ -31,3 +31,11 @@ The two-page dashboard has been created. Final formatting, interpretation of fin
 
 ## Limitations
 The dataset is fictional. Findings describe patterns in this dataset and should not be treated as evidence about a real organisation or used alone to make employee decisions.
+
+## Dashboard Preview
+
+### Page 1 — Workforce Overview
+![Page 1 Dashboard](Screenshot%202026-10-16%20110129.png)
+
+### Page 2 — Attrition Analysis
+![Page 2 Dashboard](Screenshot%202026-10-16%20110143.png)
